@@ -1,5 +1,5 @@
-# CertifyTheWeb-RDS-Certificate-Renewal
-Scripts for allowing Certify The Web to auto renew and update certificates in Remote Desktop Gateway Server
+# CertifyTheWeb-RDCB-Certificate-Renewal
+Scripts for allowing Certify The Web to auto renew and update certificates in Remote Desktop Gateway Connection Broker Server
 
 Add the scripts to the Certify Deployment Tasks in the following order:
 
