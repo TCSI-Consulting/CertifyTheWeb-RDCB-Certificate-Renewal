@@ -3,7 +3,7 @@ Scripts for allowing Certify The Web to auto renew and update certificates in Re
 
 Add the scripts to the Certify Deployment Tasks in the following order:
 
-1 - Prep-CTWJSON.ps1
+1 - Prep-CTWJSON.ps1 <cr>
 2 - Install-RDSCerts.ps1
 
 #1 - Prep-CTWJSON.ps1:
